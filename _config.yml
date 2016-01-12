@@ -1,0 +1,36 @@
+# Site settings
+title: Glasnost
+email: rudraksh.mk@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A product maker, amateur linguist, raving mathematician, nutty historian.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://rudimk.github.io" # the base hostname & protocol for your site
+twitter_username: vectormein
+github_username:  rudimk
+blog: "https://medium.com@rudimk"
+google_play: 
+google_plus_com:   # Community link
+google_plus_per:   #Personal link
+facebook_app_id: 
+
+# Layout settings
+header_type: default  # values [ drawer, default ]
+post_type: highlight    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
+
+more_vert:
+  option1:
+    name: Twitter
+    link: https://twitter.com/vectormein
+  option2:
+    name: Medium
+    link: https://medium.com/@rudimk
+  option3:
+    name: Github
+    link: https://github.com/rudimk
+
+#disqus: true
+#disqus_shortname: 'gdgmanagua'
+
+# Build settings
+markdown: kramdown
